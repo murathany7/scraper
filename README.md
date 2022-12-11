@@ -1,2 +1,2 @@
 # scraper
-This script mines data from the biggest forum in Turkey(forum.donanimhaber.com). It gets around 150,000 questions and answers of current news in Turkish per run.
+This script mines data from cryptonews.com about all sorts of blockchain and crypto updates as well as crypto stock news and saves the data in a csv files. The point of this is to feed this data to AI bot. The second version mines data from the biggest forum in Turkey(forum.donanimhaber.com). It gets around 150,000 questions and answers of current news in Turkish per run. The first one gets indefinite news meaning it stops when you command it to do so.
